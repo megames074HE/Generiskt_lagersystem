@@ -50,5 +50,6 @@ lager3.show_lager_info()
 
 #Fråga 1
 '''
+En klass variabel är en variabel som tillhör till själva klassen. Så alla instanser kan nå samma värdet på variabeln och ändra den. 
 
 '''
